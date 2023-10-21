@@ -1,2 +1,2 @@
-# Brainfuck-Alphabet
-An alphabet sheet i made for brainfuck, with brainfuck
+# Brainfuck-Keyboard
+A complete list of ASCII characters for brainfuck, with brainfuck.
